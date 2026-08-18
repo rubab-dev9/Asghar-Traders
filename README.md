@@ -257,15 +257,3 @@ Possible future improvements include:
 ## License
 
 This project was developed as a business website project for **Asghar Traders & Wholesale**.
-
-````
-
-### README mein bas ek cheez baad mein change karna
-
-Deployment ke baad:
-
-```md
-## Live Website
-
-https://your-deployed-website-url.com
-````
