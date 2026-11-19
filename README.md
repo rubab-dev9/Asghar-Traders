@@ -6,7 +6,7 @@ The website is designed to help wholesale buyers and retailers explore grocery p
 
 ## Live Website
 
-> Add your deployed website URL here after deployment.
+> https://asghar-traders.vercel.app
 
 ## GitHub Repository
 
